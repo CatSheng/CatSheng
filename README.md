@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Catherine Sheng
+- 👀 I’m interested in learning web design/development
+- 🌱 I’m currently learning Javascript
+- Interested in pursuing a career in Game development (integrating art into code)
